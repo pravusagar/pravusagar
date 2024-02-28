@@ -18,7 +18,8 @@ I am Prabhusagar Mohapatra, a passionate web developer currently working at All 
 ## Projects
 
 [![State Botanical Garden of Odisha](https://img.shields.io/badge/State%20Botanical%20Garden%20of%20Odisha-4285F4?style=for-the-badge&logo=github)](https://github.com/pravusagar/state-botanical-garden)
-[![Sambalpur University Grievance Page](https://img.shields.io/badge/BPUT%20Odisha-4285F4?style=for-the-badge&logo=github)](https://github.com/pravusagar/Sambalpur-University-Grievance-Page)
+[![Sambalpur University Grievance Page](https://img.shields.io/badge/Sambalpur%20University%20Grievance%20Page-4285F4?style=for-the-badge&logo=github)](https://github.com/pravusagar/Sambalpur-University-Grievance-Page)
+
 [![ArovedWellness.com](https://img.shields.io/badge/ArovedWellness.com-4285F4?style=for-the-badge&logo=github)](https://github.com/pravusagar/arovedwellness.com)
 
 ## Contact
